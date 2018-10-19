@@ -1,3 +1,4 @@
+# test
 str = 'this is a string'
 # 默认使用空格分割
 print("默认使用空格分隔：%s" % str.split())
